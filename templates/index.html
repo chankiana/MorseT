@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Morse Code Communication</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/script.css') }}">
+</head>
+<body>
+    <div id="menuPanel" class="menu-panel">
+        {% for vessel in vessels %}
+        <div class="vessel-btn" style="color: #fff;">{{ vessel }}</div>
+        {% endfor %}
+    </div>
+
+    <div id="mainContent" class="main-content">
+        <div class="header">
+            <button class="menu-btn">MENU</button>
+            Channel balls
+        </div>
+
+        <div class="chat-area">
+            {% for message in messages %}
+            <div class="message-group">
+                <div>From: {{ message.vessel_sender }} To: {{ message.vessel_recipient }}</div>
+                {% if message.message_received == '[No Message Received]' %}
+                <div class="message-received">[No Message Received]</div>
+                {% else %}
+                <div class="message-content">{{ message.message_received }}</div>
+                {% endif %}
+                
+                {% if message.message_sent %}
+                    {% if message.message_sent == '[No Message Sent]' %}
+                    <div class="message-sent">[No Message Sent]</div>
+                    {% else %}
+                    <div class="message-response">Response: {{ message.message_sent }}</div>
+                    {% endif %}
+                {% endif %}
+                
+                <div class="timestamp">{{ message.timestamp }}</div>
+            </div>
+            {% endfor %}
+        </div>
+
+        <div class="input-container">
+            <input type="text" id="messageInput" placeholder="Type your message...">
+            <button class="send-btn">Send</button>
+        </div>
+
+        <div class="keyboard">
+            <div class="keyboard-row">
+                {% for key in '1234567890' %}
+                <button class="key">{{ key }}</button>
+                {% endfor %}
+            </div>
+            <div class="keyboard-row">
+                {% for key in 'QWERTYUIOP' %}
+                <button class="key">{{ key }}</button>
+                {% endfor %}
+            </div>
+            <div class="keyboard-row">
+                {% for key in 'ASDFGHJKL' %}
+                <button class="key">{{ key }}</button>
+                {% endfor %}
+                <button class="key delete">DELETE</button>
+            </div>
+            <div class="keyboard-row">
+                {% for key in 'ZXCVBNM,.' %}
+                <button class="key">{{ key }}</button>
+                {% endfor %}
+                <button class="key space">SPACE</button>
+            </div>
+        </div>
+    </div>
+    <script src="{{ url_for('static', filename='js/script.js') }}"></script>
+</body>
+</html>
