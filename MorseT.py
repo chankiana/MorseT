@@ -118,9 +118,9 @@ class FlaskMorseApp:
         messages.sort(key=lambda x: x['timestamp'])
         return messages
     
-    def run(self, debug=True):
+    def run(self, debug=True, host='0.0.0.0'):
         """Run the Flask application."""
-        self.app.run(debug=debug)
+        self.app.run(debug=debug, host=host)
 
 if __name__ == '__main__':
     app = FlaskMorseApp()
