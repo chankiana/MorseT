@@ -18,24 +18,23 @@
         </div>
 
         <div class="chat-area">
-            {% for message in messages %}
+            {% for message in messages|reverse %}
             <div class="message-group">
-                <div>From: {{ message.vessel_sender }} To: {{ message.vessel_recipient }}</div>
-                {% if message.message_received == '[No Message Received]' %}
-                <div class="message-received">[No Message Received]</div>
-                {% else %}
-                <div class="message-content">{{ message.message_received }}</div>
+                {% if message.message_received != '[No Message Received]' %}
+                <div class="message-bubble message-received">{{ message.message_received }}</div>
                 {% endif %}
                 
-                {% if message.message_sent %}
-                    {% if message.message_sent == '[No Message Sent]' %}
-                    <div class="message-sent">[No Message Sent]</div>
-                    {% else %}
-                    <div class="message-response">Response: {{ message.message_sent }}</div>
-                    {% endif %}
+                {% if message.message_received == '[No Message Received]' and message.message_sent and message.message_sent != '[No Message Sent]' %}
+                <div class="message-bubble message-sent">{{ message.message_sent }}</div>
+                {% endif %}
+
+                {% if message.message_received != '[No Message Received]' and message.message_sent and message.message_sent != '[No Message Sent]' %}
+                <div class="message-bubble message-sent">Response: {{ message.message_sent }}</div>
                 {% endif %}
                 
-                <div class="timestamp">{{ message.timestamp }}</div>
+                <div class="timestamp {% if message.message_sent and message.message_sent != '[No Message Sent]' %}timestamp-sent{% else %}timestamp-received{% endif %}">
+                    {{ message.timestamp }}
+                </div>
             </div>
             {% endfor %}
         </div>

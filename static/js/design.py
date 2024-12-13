@@ -102,25 +102,34 @@ document.addEventListener('DOMContentLoaded', function() {
             .then(messages => {
                 const chatArea = document.querySelector('.chat-area');
                 chatArea.innerHTML = '';
-                messages.forEach(message => {
+                
+                // Reverse the messages array to show earliest first
+                messages.reverse().forEach(message => {
                     const messageGroup = document.createElement('div');
                     messageGroup.className = 'message-group';
-                    messageGroup.innerHTML = `
-                        <div>${message.header}</div>
-                        ${message.message_received === '[No Message Received]' ?
-                            `<div class="message-received">[No Message Received]</div>` :
-                            `<div class="message-content">${message.message_received}</div>`
+                    
+                    let messageHTML = '';
+                    
+                    if (message.message_received !== '[No Message Received]') {
+                        messageHTML += `<div class="message-bubble message-received">${message.message_received}</div>`;
+                    }
+                    
+                    if (message.message_sent && message.message_sent !== '[No Message Sent]') {
+                        if (message.message_received !== '[No Message Received]') {
+                            messageHTML += `<div class="message-bubble message-sent">Response: ${message.message_sent}</div>`;
+                        } else {
+                            messageHTML += `<div class="message-bubble message-sent">${message.message_sent}</div>`;
                         }
-                        ${message.message_sent ?
-                            message.message_sent === '[No Message Sent]' ?
-                                `<div class="message-sent">[No Message Sent]</div>` :
-                                `<div class="message-response">Response: ${message.message_sent}</div>`
-                            : ''
-                        }
-                        <div class="timestamp">${message.formatted_time}</div>
-                    `;
+                    }
+                    
+                    messageHTML += `<div class="timestamp ${message.message_sent && message.message_sent != '[No Message Sent]' ? 'timestamp-sent' : 'timestamp-received'}">${message.formatted_time}</div>`;
+                    
+                    messageGroup.innerHTML = messageHTML;
                     chatArea.appendChild(messageGroup);
                 });
+                
+                // Scroll to bottom after updating messages
+                chatArea.scrollTop = chatArea.scrollHeight;
             });
     }
 
