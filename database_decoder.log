@@ -1,0 +1,467 @@
+2024-12-06 00:14:12,475 - __main__ - INFO - Starting database message decoding
+2024-12-06 00:14:12,475 - __main__ - DEBUG - Database path: C:\Users\shuim\OneDrive\Documents\Important\school\Y3S2\MP morse app\SQLite Database\morse_decoder.db
+2024-12-06 00:14:12,476 - database_handler - INFO - Initializing database handler for path: C:\Users\shuim\OneDrive\Documents\Important\school\Y3S2\MP morse app\SQLite Database\morse_decoder.db
+2024-12-06 00:14:12,476 - database_handler - DEBUG - Encryption setup completed successfully
+2024-12-06 00:14:12,476 - database_handler - DEBUG - Creating database directory: C:\Users\shuim\OneDrive\Documents\Important\school\Y3S2\MP morse app\SQLite Database
+2024-12-06 00:14:12,478 - database_handler - DEBUG - Creating messages table if not exists
+2024-12-06 00:14:12,479 - database_handler - INFO - Database setup completed successfully
+2024-12-06 00:14:12,480 - database_handler - INFO - Retrieving messages for sender: None and recipient: None
+2024-12-06 00:14:12,484 - database_handler - DEBUG - Message decrypted successfully
+2024-12-06 00:14:12,485 - database_handler - DEBUG - Message decrypted successfully
+2024-12-06 00:14:12,485 - database_handler - DEBUG - Successfully decrypted message ID: 2
+2024-12-06 00:14:12,485 - database_handler - INFO - Retrieved 1 messages successfully
+2024-12-06 00:14:12,496 - __main__ - INFO - Successfully decoded 1 messages
+2024-12-06 00:19:35,130 - __main__ - INFO - Starting database message decoding
+2024-12-06 00:19:35,130 - __main__ - DEBUG - Database path: C:\Users\shuim\OneDrive\Documents\Important\school\Y3S2\MP morse app\SQLite Database\morse_decoder.db
+2024-12-06 00:19:35,131 - database_handler - INFO - Initializing database handler for path: C:\Users\shuim\OneDrive\Documents\Important\school\Y3S2\MP morse app\SQLite Database\morse_decoder.db
+2024-12-06 00:19:35,131 - database_handler - DEBUG - Encryption setup completed successfully
+2024-12-06 00:19:35,132 - database_handler - DEBUG - Creating database directory: C:\Users\shuim\OneDrive\Documents\Important\school\Y3S2\MP morse app\SQLite Database
+2024-12-06 00:19:35,133 - database_handler - DEBUG - Creating messages table if not exists
+2024-12-06 00:19:35,134 - database_handler - INFO - Database setup completed successfully
+2024-12-06 00:19:35,134 - database_handler - INFO - Retrieving messages for sender: None and recipient: None
+2024-12-06 00:19:35,135 - database_handler - INFO - Retrieved 0 messages successfully
+2024-12-06 00:19:35,136 - __main__ - INFO - No messages found in database
+2024-12-06 00:19:40,468 - __main__ - INFO - Program terminated by user
+2024-12-06 00:25:02,581 - __main__ - INFO - Starting database message decoding
+2024-12-06 00:25:02,582 - __main__ - DEBUG - Database path: C:\Users\shuim\OneDrive\Documents\Important\school\Y3S2\MP morse app\SQLite Database\morse_decoder.db
+2024-12-06 00:25:02,583 - database_handler - INFO - Initializing database handler for path: C:\Users\shuim\OneDrive\Documents\Important\school\Y3S2\MP morse app\SQLite Database\morse_decoder.db
+2024-12-06 00:25:02,583 - database_handler - DEBUG - Encryption setup completed successfully
+2024-12-06 00:25:02,584 - database_handler - DEBUG - Creating database directory: C:\Users\shuim\OneDrive\Documents\Important\school\Y3S2\MP morse app\SQLite Database
+2024-12-06 00:25:02,585 - database_handler - DEBUG - Creating messages table if not exists
+2024-12-06 00:25:02,586 - database_handler - INFO - Database setup completed successfully
+2024-12-06 00:25:02,586 - database_handler - INFO - Retrieving messages for sender: None and recipient: None
+2024-12-06 00:25:02,590 - database_handler - DEBUG - Message decrypted successfully
+2024-12-06 00:25:02,591 - database_handler - DEBUG - Message decrypted successfully
+2024-12-06 00:25:02,591 - database_handler - DEBUG - Successfully decrypted message ID: 12
+2024-12-06 00:25:02,591 - database_handler - DEBUG - Message decrypted successfully
+2024-12-06 00:25:02,592 - database_handler - DEBUG - Message decrypted successfully
+2024-12-06 00:25:02,592 - database_handler - DEBUG - Successfully decrypted message ID: 11
+2024-12-06 00:25:02,592 - database_handler - DEBUG - Message decrypted successfully
+2024-12-06 00:25:02,593 - database_handler - DEBUG - Message decrypted successfully
+2024-12-06 00:25:02,593 - database_handler - DEBUG - Successfully decrypted message ID: 10
+2024-12-06 00:25:02,593 - database_handler - DEBUG - Message decrypted successfully
+2024-12-06 00:25:02,593 - database_handler - DEBUG - Message decrypted successfully
+2024-12-06 00:25:02,594 - database_handler - DEBUG - Successfully decrypted message ID: 9
+2024-12-06 00:25:02,594 - database_handler - DEBUG - Message decrypted successfully
+2024-12-06 00:25:02,594 - database_handler - DEBUG - Message decrypted successfully
+2024-12-06 00:25:02,595 - database_handler - DEBUG - Successfully decrypted message ID: 8
+2024-12-06 00:25:02,595 - database_handler - DEBUG - Message decrypted successfully
+2024-12-06 00:25:02,595 - database_handler - DEBUG - Message decrypted successfully
+2024-12-06 00:25:02,595 - database_handler - DEBUG - Successfully decrypted message ID: 7
+2024-12-06 00:25:02,596 - database_handler - DEBUG - Message decrypted successfully
+2024-12-06 00:25:02,596 - database_handler - DEBUG - Message decrypted successfully
+2024-12-06 00:25:02,596 - database_handler - DEBUG - Successfully decrypted message ID: 6
+2024-12-06 00:25:02,597 - database_handler - DEBUG - Message decrypted successfully
+2024-12-06 00:25:02,597 - database_handler - DEBUG - Message decrypted successfully
+2024-12-06 00:25:02,597 - database_handler - DEBUG - Successfully decrypted message ID: 5
+2024-12-06 00:25:02,597 - database_handler - DEBUG - Message decrypted successfully
+2024-12-06 00:25:02,597 - database_handler - DEBUG - Message decrypted successfully
+2024-12-06 00:25:02,598 - database_handler - DEBUG - Successfully decrypted message ID: 4
+2024-12-06 00:25:02,598 - database_handler - DEBUG - Message decrypted successfully
+2024-12-06 00:25:02,598 - database_handler - DEBUG - Message decrypted successfully
+2024-12-06 00:25:02,598 - database_handler - DEBUG - Successfully decrypted message ID: 3
+2024-12-06 00:25:02,598 - database_handler - INFO - Retrieved 10 messages successfully
+2024-12-06 00:25:02,609 - __main__ - INFO - Successfully decoded 10 messages
+2024-12-06 16:18:50,447 - __main__ - INFO - Starting database message decoding
+2024-12-06 16:18:50,447 - __main__ - DEBUG - Database path: C:\Users\shuim\OneDrive\Documents\Important\school\Y3S2\MP morseV1 database done\SQLite Database\morse_decoder.db
+2024-12-06 16:18:50,447 - database_handler - INFO - Initializing database handler for path: C:\Users\shuim\OneDrive\Documents\Important\school\Y3S2\MP morseV1 database done\SQLite Database\morse_decoder.db
+2024-12-06 16:18:50,447 - database_handler - DEBUG - Encryption setup completed successfully
+2024-12-06 16:18:50,463 - database_handler - DEBUG - Creating database directory: C:\Users\shuim\OneDrive\Documents\Important\school\Y3S2\MP morseV1 database done\SQLite Database
+2024-12-06 16:18:50,463 - database_handler - DEBUG - Creating messages table if not exists
+2024-12-06 16:18:50,475 - database_handler - INFO - Database setup completed successfully
+2024-12-06 16:18:50,475 - database_handler - INFO - Retrieving messages for sender: None and recipient: None
+2024-12-06 16:18:50,481 - database_handler - DEBUG - Message decrypted successfully
+2024-12-06 16:18:50,481 - database_handler - DEBUG - Message decrypted successfully
+2024-12-06 16:18:50,481 - database_handler - DEBUG - Successfully decrypted message ID: 12
+2024-12-06 16:18:50,482 - database_handler - DEBUG - Message decrypted successfully
+2024-12-06 16:18:50,482 - database_handler - DEBUG - Message decrypted successfully
+2024-12-06 16:18:50,482 - database_handler - DEBUG - Successfully decrypted message ID: 11
+2024-12-06 16:18:50,483 - database_handler - DEBUG - Message decrypted successfully
+2024-12-06 16:18:50,483 - database_handler - DEBUG - Message decrypted successfully
+2024-12-06 16:18:50,483 - database_handler - DEBUG - Successfully decrypted message ID: 10
+2024-12-06 16:18:50,483 - database_handler - DEBUG - Message decrypted successfully
+2024-12-06 16:18:50,484 - database_handler - DEBUG - Message decrypted successfully
+2024-12-06 16:18:50,484 - database_handler - DEBUG - Successfully decrypted message ID: 9
+2024-12-06 16:18:50,484 - database_handler - DEBUG - Message decrypted successfully
+2024-12-06 16:18:50,484 - database_handler - DEBUG - Message decrypted successfully
+2024-12-06 16:18:50,485 - database_handler - DEBUG - Successfully decrypted message ID: 8
+2024-12-06 16:18:50,485 - database_handler - DEBUG - Message decrypted successfully
+2024-12-06 16:18:50,485 - database_handler - DEBUG - Message decrypted successfully
+2024-12-06 16:18:50,485 - database_handler - DEBUG - Successfully decrypted message ID: 7
+2024-12-06 16:18:50,486 - database_handler - DEBUG - Message decrypted successfully
+2024-12-06 16:18:50,486 - database_handler - DEBUG - Message decrypted successfully
+2024-12-06 16:18:50,486 - database_handler - DEBUG - Successfully decrypted message ID: 6
+2024-12-06 16:18:50,486 - database_handler - DEBUG - Message decrypted successfully
+2024-12-06 16:18:50,486 - database_handler - DEBUG - Message decrypted successfully
+2024-12-06 16:18:50,486 - database_handler - DEBUG - Successfully decrypted message ID: 5
+2024-12-06 16:18:50,487 - database_handler - DEBUG - Message decrypted successfully
+2024-12-06 16:18:50,487 - database_handler - DEBUG - Message decrypted successfully
+2024-12-06 16:18:50,487 - database_handler - DEBUG - Successfully decrypted message ID: 4
+2024-12-06 16:18:50,487 - database_handler - DEBUG - Message decrypted successfully
+2024-12-06 16:18:50,488 - database_handler - DEBUG - Message decrypted successfully
+2024-12-06 16:18:50,488 - database_handler - DEBUG - Successfully decrypted message ID: 3
+2024-12-06 16:18:50,488 - database_handler - INFO - Retrieved 10 messages successfully
+2024-12-06 16:18:50,505 - __main__ - INFO - Successfully decoded 10 messages
+2024-12-06 16:20:40,426 - __main__ - INFO - Starting database message decoding
+2024-12-06 16:20:40,426 - __main__ - DEBUG - Database path: C:\Users\shuim\OneDrive\Documents\Important\school\Y3S2\MP morseV1 database done\SQLite Database\morse_decoder.db
+2024-12-06 16:20:40,426 - database_handler - INFO - Initializing database handler for path: C:\Users\shuim\OneDrive\Documents\Important\school\Y3S2\MP morseV1 database done\SQLite Database\morse_decoder.db
+2024-12-06 16:20:40,426 - database_handler - DEBUG - Encryption setup completed successfully
+2024-12-06 16:20:40,426 - database_handler - DEBUG - Creating database directory: C:\Users\shuim\OneDrive\Documents\Important\school\Y3S2\MP morseV1 database done\SQLite Database
+2024-12-06 16:20:40,426 - database_handler - DEBUG - Creating messages table if not exists
+2024-12-06 16:20:40,426 - database_handler - INFO - Database setup completed successfully
+2024-12-06 16:20:40,426 - database_handler - INFO - Retrieving messages for sender: None and recipient: None
+2024-12-06 16:20:40,426 - database_handler - INFO - Retrieved 0 messages successfully
+2024-12-06 16:20:40,426 - __main__ - INFO - No messages found in database
+2024-12-06 16:21:37,245 - __main__ - INFO - Program terminated by user
+2024-12-06 16:27:56,749 - __main__ - INFO - Starting database message decoding
+2024-12-06 16:27:56,750 - __main__ - DEBUG - Database path: C:\Users\shuim\OneDrive\Documents\Important\school\Y3S2\MP morseV1 database done\SQLite Database\morse_decoder.db
+2024-12-06 16:27:56,750 - database_handler - INFO - Initializing database handler for path: C:\Users\shuim\OneDrive\Documents\Important\school\Y3S2\MP morseV1 database done\SQLite Database\morse_decoder.db
+2024-12-06 16:27:56,750 - database_handler - DEBUG - Encryption setup completed successfully
+2024-12-06 16:27:56,751 - database_handler - DEBUG - Creating database directory: C:\Users\shuim\OneDrive\Documents\Important\school\Y3S2\MP morseV1 database done\SQLite Database
+2024-12-06 16:27:56,752 - database_handler - DEBUG - Creating messages table if not exists
+2024-12-06 16:27:56,752 - database_handler - INFO - Database setup completed successfully
+2024-12-06 16:27:56,753 - database_handler - INFO - Retrieving messages for sender: None and recipient: None
+2024-12-06 16:27:56,757 - database_handler - DEBUG - Message decrypted successfully
+2024-12-06 16:27:56,757 - database_handler - WARNING - Attempted to decrypt empty message
+2024-12-06 16:27:56,757 - database_handler - WARNING - Failed to decrypt message ID: 1
+2024-12-06 16:27:56,757 - database_handler - INFO - Retrieved 0 messages successfully
+2024-12-06 16:27:56,758 - __main__ - INFO - No messages found in database
+2024-12-06 16:28:00,475 - __main__ - INFO - Starting database message decoding
+2024-12-06 16:28:00,476 - __main__ - DEBUG - Database path: C:\Users\shuim\OneDrive\Documents\Important\school\Y3S2\MP morseV1 database done\SQLite Database\morse_decoder.db
+2024-12-06 16:28:00,476 - database_handler - INFO - Initializing database handler for path: C:\Users\shuim\OneDrive\Documents\Important\school\Y3S2\MP morseV1 database done\SQLite Database\morse_decoder.db
+2024-12-06 16:28:00,476 - database_handler - DEBUG - Encryption setup completed successfully
+2024-12-06 16:28:00,477 - database_handler - DEBUG - Creating database directory: C:\Users\shuim\OneDrive\Documents\Important\school\Y3S2\MP morseV1 database done\SQLite Database
+2024-12-06 16:28:00,479 - database_handler - DEBUG - Creating messages table if not exists
+2024-12-06 16:28:00,479 - database_handler - INFO - Database setup completed successfully
+2024-12-06 16:28:00,479 - database_handler - INFO - Retrieving messages for sender: None and recipient: None
+2024-12-06 16:28:00,481 - database_handler - DEBUG - Message decrypted successfully
+2024-12-06 16:28:00,481 - database_handler - WARNING - Attempted to decrypt empty message
+2024-12-06 16:28:00,481 - database_handler - WARNING - Failed to decrypt message ID: 1
+2024-12-06 16:28:00,481 - database_handler - INFO - Retrieved 0 messages successfully
+2024-12-06 16:28:00,481 - __main__ - INFO - No messages found in database
+2024-12-06 16:29:29,732 - __main__ - INFO - Program terminated by user
+2024-12-06 16:29:49,639 - __main__ - INFO - Starting database message decoding
+2024-12-06 16:29:49,640 - __main__ - DEBUG - Database path: C:\Users\shuim\OneDrive\Documents\Important\school\Y3S2\MP morseV1 database done\SQLite Database\morse_decoder.db
+2024-12-06 16:29:49,640 - database_handler - INFO - Initializing database handler for path: C:\Users\shuim\OneDrive\Documents\Important\school\Y3S2\MP morseV1 database done\SQLite Database\morse_decoder.db
+2024-12-06 16:29:49,641 - database_handler - DEBUG - Encryption setup completed successfully
+2024-12-06 16:29:49,641 - database_handler - DEBUG - Creating database directory: C:\Users\shuim\OneDrive\Documents\Important\school\Y3S2\MP morseV1 database done\SQLite Database
+2024-12-06 16:29:49,642 - database_handler - DEBUG - Creating messages table if not exists
+2024-12-06 16:29:49,643 - database_handler - INFO - Database setup completed successfully
+2024-12-06 16:29:49,643 - database_handler - INFO - Retrieving messages for sender: None and recipient: None
+2024-12-06 16:29:49,647 - database_handler - DEBUG - Message decrypted successfully
+2024-12-06 16:29:49,647 - database_handler - WARNING - Attempted to decrypt empty or NULL message
+2024-12-06 16:29:49,648 - database_handler - DEBUG - Successfully processed message ID: 2
+2024-12-06 16:29:49,648 - database_handler - DEBUG - Message decrypted successfully
+2024-12-06 16:29:49,648 - database_handler - WARNING - Attempted to decrypt empty or NULL message
+2024-12-06 16:29:49,649 - database_handler - DEBUG - Successfully processed message ID: 1
+2024-12-06 16:29:49,649 - database_handler - INFO - Retrieved 2 messages successfully
+2024-12-06 16:29:49,658 - __main__ - INFO - Successfully decoded 2 messages
+2024-12-06 16:30:20,589 - __main__ - INFO - Starting database message decoding
+2024-12-06 16:30:20,590 - __main__ - DEBUG - Database path: C:\Users\shuim\OneDrive\Documents\Important\school\Y3S2\MP morseV1 database done\SQLite Database\morse_decoder.db
+2024-12-06 16:30:20,590 - database_handler - INFO - Initializing database handler for path: C:\Users\shuim\OneDrive\Documents\Important\school\Y3S2\MP morseV1 database done\SQLite Database\morse_decoder.db
+2024-12-06 16:30:20,591 - database_handler - DEBUG - Encryption setup completed successfully
+2024-12-06 16:30:20,591 - database_handler - DEBUG - Creating database directory: C:\Users\shuim\OneDrive\Documents\Important\school\Y3S2\MP morseV1 database done\SQLite Database
+2024-12-06 16:30:20,593 - database_handler - DEBUG - Creating messages table if not exists
+2024-12-06 16:30:20,593 - database_handler - INFO - Database setup completed successfully
+2024-12-06 16:30:20,594 - database_handler - INFO - Retrieving messages for sender: None and recipient: None
+2024-12-06 16:30:20,595 - database_handler - DEBUG - Message decrypted successfully
+2024-12-06 16:30:20,595 - database_handler - WARNING - Attempted to decrypt empty or NULL message
+2024-12-06 16:30:20,595 - database_handler - DEBUG - Successfully processed message ID: 1
+2024-12-06 16:30:20,596 - database_handler - INFO - Retrieved 1 messages successfully
+2024-12-06 16:30:20,598 - __main__ - INFO - Successfully decoded 1 messages
+2024-12-06 16:31:00,936 - __main__ - INFO - Program terminated by user
+2024-12-06 16:33:42,319 - __main__ - INFO - Starting database message decoding
+2024-12-06 16:33:42,320 - __main__ - DEBUG - Database path: C:\Users\shuim\OneDrive\Documents\Important\school\Y3S2\MP morseV1 database done\SQLite Database\morse_decoder.db
+2024-12-06 16:33:42,320 - database_handler - INFO - Initializing database handler for path: C:\Users\shuim\OneDrive\Documents\Important\school\Y3S2\MP morseV1 database done\SQLite Database\morse_decoder.db
+2024-12-06 16:33:42,320 - database_handler - DEBUG - Encryption setup completed successfully
+2024-12-06 16:33:42,321 - database_handler - DEBUG - Creating database directory: C:\Users\shuim\OneDrive\Documents\Important\school\Y3S2\MP morseV1 database done\SQLite Database
+2024-12-06 16:33:42,322 - database_handler - DEBUG - Creating messages table if not exists
+2024-12-06 16:33:42,323 - database_handler - INFO - Database setup completed successfully
+2024-12-06 16:33:42,323 - database_handler - INFO - Retrieving messages for sender: None and recipient: None
+2024-12-06 16:33:42,324 - database_handler - WARNING - Attempted to decrypt empty or NULL message
+2024-12-06 16:33:42,327 - database_handler - DEBUG - Message decrypted successfully
+2024-12-06 16:33:42,328 - database_handler - DEBUG - Successfully processed message ID: 3
+2024-12-06 16:33:42,328 - database_handler - DEBUG - Message decrypted successfully
+2024-12-06 16:33:42,328 - database_handler - WARNING - Attempted to decrypt empty or NULL message
+2024-12-06 16:33:42,329 - database_handler - DEBUG - Successfully processed message ID: 1
+2024-12-06 16:33:42,329 - database_handler - INFO - Retrieved 2 messages successfully
+2024-12-06 16:33:42,338 - __main__ - INFO - Successfully decoded 2 messages
+2024-12-06 16:34:00,982 - __main__ - INFO - Program terminated by user
+2024-12-06 16:42:36,982 - __main__ - INFO - Starting database message decoding
+2024-12-06 16:42:36,983 - __main__ - DEBUG - Database path: C:\Users\shuim\OneDrive\Documents\Important\school\Y3S2\MP morseV1 database done\SQLite Database\morse_decoder.db
+2024-12-06 16:42:36,983 - database_handler - INFO - Initializing database handler for path: C:\Users\shuim\OneDrive\Documents\Important\school\Y3S2\MP morseV1 database done\SQLite Database\morse_decoder.db
+2024-12-06 16:42:36,984 - database_handler - DEBUG - Encryption setup completed successfully
+2024-12-06 16:42:36,984 - database_handler - DEBUG - Creating database directory: C:\Users\shuim\OneDrive\Documents\Important\school\Y3S2\MP morseV1 database done\SQLite Database
+2024-12-06 16:42:36,985 - database_handler - DEBUG - Creating messages table if not exists
+2024-12-06 16:42:36,986 - database_handler - INFO - Database setup completed successfully
+2024-12-06 16:42:36,986 - database_handler - INFO - Retrieving messages for sender: None and recipient: None
+2024-12-06 16:42:36,988 - database_handler - WARNING - Attempted to decrypt empty or NULL message
+2024-12-06 16:42:36,991 - database_handler - DEBUG - Message decrypted successfully
+2024-12-06 16:42:36,991 - database_handler - DEBUG - Successfully processed message ID: 13
+2024-12-06 16:42:36,992 - database_handler - DEBUG - Message decrypted successfully
+2024-12-06 16:42:36,992 - database_handler - WARNING - Attempted to decrypt empty or NULL message
+2024-12-06 16:42:36,992 - database_handler - DEBUG - Successfully processed message ID: 12
+2024-12-06 16:42:36,993 - database_handler - WARNING - Attempted to decrypt empty or NULL message
+2024-12-06 16:42:36,993 - database_handler - DEBUG - Message decrypted successfully
+2024-12-06 16:42:36,993 - database_handler - DEBUG - Successfully processed message ID: 11
+2024-12-06 16:42:36,993 - database_handler - DEBUG - Message decrypted successfully
+2024-12-06 16:42:36,993 - database_handler - WARNING - Attempted to decrypt empty or NULL message
+2024-12-06 16:42:36,994 - database_handler - DEBUG - Successfully processed message ID: 10
+2024-12-06 16:42:36,994 - database_handler - WARNING - Attempted to decrypt empty or NULL message
+2024-12-06 16:42:36,994 - database_handler - DEBUG - Message decrypted successfully
+2024-12-06 16:42:36,995 - database_handler - DEBUG - Successfully processed message ID: 9
+2024-12-06 16:42:36,995 - database_handler - DEBUG - Message decrypted successfully
+2024-12-06 16:42:36,995 - database_handler - WARNING - Attempted to decrypt empty or NULL message
+2024-12-06 16:42:36,995 - database_handler - DEBUG - Successfully processed message ID: 8
+2024-12-06 16:42:36,996 - database_handler - WARNING - Attempted to decrypt empty or NULL message
+2024-12-06 16:42:36,996 - database_handler - DEBUG - Message decrypted successfully
+2024-12-06 16:42:36,996 - database_handler - DEBUG - Successfully processed message ID: 7
+2024-12-06 16:42:36,996 - database_handler - DEBUG - Message decrypted successfully
+2024-12-06 16:42:36,997 - database_handler - WARNING - Attempted to decrypt empty or NULL message
+2024-12-06 16:42:36,997 - database_handler - DEBUG - Successfully processed message ID: 6
+2024-12-06 16:42:36,997 - database_handler - WARNING - Attempted to decrypt empty or NULL message
+2024-12-06 16:42:36,998 - database_handler - DEBUG - Message decrypted successfully
+2024-12-06 16:42:36,998 - database_handler - DEBUG - Successfully processed message ID: 5
+2024-12-06 16:42:36,998 - database_handler - DEBUG - Message decrypted successfully
+2024-12-06 16:42:36,998 - database_handler - WARNING - Attempted to decrypt empty or NULL message
+2024-12-06 16:42:37,000 - database_handler - DEBUG - Successfully processed message ID: 4
+2024-12-06 16:42:37,000 - database_handler - WARNING - Attempted to decrypt empty or NULL message
+2024-12-06 16:42:37,000 - database_handler - DEBUG - Message decrypted successfully
+2024-12-06 16:42:37,001 - database_handler - DEBUG - Successfully processed message ID: 3
+2024-12-06 16:42:37,001 - database_handler - DEBUG - Message decrypted successfully
+2024-12-06 16:42:37,001 - database_handler - WARNING - Attempted to decrypt empty or NULL message
+2024-12-06 16:42:37,001 - database_handler - DEBUG - Successfully processed message ID: 1
+2024-12-06 16:42:37,002 - database_handler - INFO - Retrieved 12 messages successfully
+2024-12-06 16:42:37,013 - __main__ - INFO - Successfully decoded 12 messages
+2024-12-06 18:42:16,453 - __main__ - INFO - Starting database message decoding
+2024-12-06 18:42:16,453 - __main__ - DEBUG - Database path: C:\Users\shuim\OneDrive\Documents\Important\school\Y3S2\MP morseV1 database done\SQLite Database\morse_decoder.db
+2024-12-06 18:42:16,455 - database_handler - INFO - Initializing database handler for path: C:\Users\shuim\OneDrive\Documents\Important\school\Y3S2\MP morseV1 database done\SQLite Database\morse_decoder.db
+2024-12-06 18:42:16,456 - database_handler - DEBUG - Encryption setup completed successfully
+2024-12-06 18:42:16,456 - database_handler - DEBUG - Creating database directory: C:\Users\shuim\OneDrive\Documents\Important\school\Y3S2\MP morseV1 database done\SQLite Database
+2024-12-06 18:42:16,458 - database_handler - DEBUG - Creating messages table if not exists
+2024-12-06 18:42:16,459 - database_handler - INFO - Database setup completed successfully
+2024-12-06 18:42:16,459 - database_handler - INFO - Retrieving messages for sender: None and recipient: None
+2024-12-06 18:42:16,461 - database_handler - WARNING - Attempted to decrypt empty or NULL message
+2024-12-06 18:42:16,465 - database_handler - DEBUG - Message decrypted successfully
+2024-12-06 18:42:16,466 - database_handler - DEBUG - Successfully processed message ID: 13
+2024-12-06 18:42:16,467 - database_handler - DEBUG - Message decrypted successfully
+2024-12-06 18:42:16,467 - database_handler - WARNING - Attempted to decrypt empty or NULL message
+2024-12-06 18:42:16,468 - database_handler - DEBUG - Successfully processed message ID: 12
+2024-12-06 18:42:16,468 - database_handler - WARNING - Attempted to decrypt empty or NULL message
+2024-12-06 18:42:16,468 - database_handler - DEBUG - Message decrypted successfully
+2024-12-06 18:42:16,469 - database_handler - DEBUG - Successfully processed message ID: 11
+2024-12-06 18:42:16,469 - database_handler - DEBUG - Message decrypted successfully
+2024-12-06 18:42:16,470 - database_handler - WARNING - Attempted to decrypt empty or NULL message
+2024-12-06 18:42:16,470 - database_handler - DEBUG - Successfully processed message ID: 10
+2024-12-06 18:42:16,470 - database_handler - WARNING - Attempted to decrypt empty or NULL message
+2024-12-06 18:42:16,471 - database_handler - DEBUG - Message decrypted successfully
+2024-12-06 18:42:16,471 - database_handler - DEBUG - Successfully processed message ID: 9
+2024-12-06 18:42:16,472 - database_handler - DEBUG - Message decrypted successfully
+2024-12-06 18:42:16,472 - database_handler - WARNING - Attempted to decrypt empty or NULL message
+2024-12-06 18:42:16,473 - database_handler - DEBUG - Successfully processed message ID: 8
+2024-12-06 18:42:16,473 - database_handler - WARNING - Attempted to decrypt empty or NULL message
+2024-12-06 18:42:16,475 - database_handler - DEBUG - Message decrypted successfully
+2024-12-06 18:42:16,475 - database_handler - DEBUG - Successfully processed message ID: 7
+2024-12-06 18:42:16,476 - database_handler - DEBUG - Message decrypted successfully
+2024-12-06 18:42:16,476 - database_handler - WARNING - Attempted to decrypt empty or NULL message
+2024-12-06 18:42:16,477 - database_handler - DEBUG - Successfully processed message ID: 6
+2024-12-06 18:42:16,477 - database_handler - WARNING - Attempted to decrypt empty or NULL message
+2024-12-06 18:42:16,478 - database_handler - DEBUG - Message decrypted successfully
+2024-12-06 18:42:16,478 - database_handler - DEBUG - Successfully processed message ID: 5
+2024-12-06 18:42:16,479 - database_handler - DEBUG - Message decrypted successfully
+2024-12-06 18:42:16,479 - database_handler - WARNING - Attempted to decrypt empty or NULL message
+2024-12-06 18:42:16,480 - database_handler - DEBUG - Successfully processed message ID: 4
+2024-12-06 18:42:16,480 - database_handler - WARNING - Attempted to decrypt empty or NULL message
+2024-12-06 18:42:16,481 - database_handler - DEBUG - Message decrypted successfully
+2024-12-06 18:42:16,481 - database_handler - DEBUG - Successfully processed message ID: 3
+2024-12-06 18:42:16,482 - database_handler - DEBUG - Message decrypted successfully
+2024-12-06 18:42:16,482 - database_handler - WARNING - Attempted to decrypt empty or NULL message
+2024-12-06 18:42:16,483 - database_handler - DEBUG - Successfully processed message ID: 1
+2024-12-06 18:42:16,483 - database_handler - INFO - Retrieved 12 messages successfully
+2024-12-06 18:42:16,506 - __main__ - INFO - Successfully decoded 12 messages
+2024-12-07 00:06:48,510 - __main__ - INFO - Starting database message decoding
+2024-12-07 00:06:48,511 - __main__ - DEBUG - Database path: C:\Users\shuim\OneDrive\Documents\Important\school\Y3S2\MP morseV1 database done\SQLite Database\morse_decoder.db
+2024-12-07 00:06:48,513 - database_handler - INFO - Initializing database handler for path: C:\Users\shuim\OneDrive\Documents\Important\school\Y3S2\MP morseV1 database done\SQLite Database\morse_decoder.db
+2024-12-07 00:06:48,514 - database_handler - DEBUG - Encryption setup completed successfully
+2024-12-07 00:06:48,514 - database_handler - DEBUG - Creating database directory: C:\Users\shuim\OneDrive\Documents\Important\school\Y3S2\MP morseV1 database done\SQLite Database
+2024-12-07 00:06:48,516 - database_handler - DEBUG - Creating messages table if not exists
+2024-12-07 00:06:48,517 - database_handler - INFO - Database setup completed successfully
+2024-12-07 00:06:48,517 - database_handler - INFO - Retrieving messages for sender: None and recipient: None
+2024-12-07 00:06:48,520 - database_handler - WARNING - Attempted to decrypt empty or NULL message
+2024-12-07 00:06:48,525 - database_handler - DEBUG - Message decrypted successfully
+2024-12-07 00:06:48,525 - database_handler - DEBUG - Successfully processed message ID: 13
+2024-12-07 00:06:48,526 - database_handler - DEBUG - Message decrypted successfully
+2024-12-07 00:06:48,526 - database_handler - WARNING - Attempted to decrypt empty or NULL message
+2024-12-07 00:06:48,526 - database_handler - DEBUG - Successfully processed message ID: 12
+2024-12-07 00:06:48,526 - database_handler - WARNING - Attempted to decrypt empty or NULL message
+2024-12-07 00:06:48,527 - database_handler - DEBUG - Message decrypted successfully
+2024-12-07 00:06:48,527 - database_handler - DEBUG - Successfully processed message ID: 11
+2024-12-07 00:06:48,527 - database_handler - DEBUG - Message decrypted successfully
+2024-12-07 00:06:48,527 - database_handler - WARNING - Attempted to decrypt empty or NULL message
+2024-12-07 00:06:48,528 - database_handler - DEBUG - Successfully processed message ID: 10
+2024-12-07 00:06:48,528 - database_handler - WARNING - Attempted to decrypt empty or NULL message
+2024-12-07 00:06:48,528 - database_handler - DEBUG - Message decrypted successfully
+2024-12-07 00:06:48,528 - database_handler - DEBUG - Successfully processed message ID: 9
+2024-12-07 00:06:48,529 - database_handler - DEBUG - Message decrypted successfully
+2024-12-07 00:06:48,529 - database_handler - WARNING - Attempted to decrypt empty or NULL message
+2024-12-07 00:06:48,529 - database_handler - DEBUG - Successfully processed message ID: 8
+2024-12-07 00:06:48,529 - database_handler - WARNING - Attempted to decrypt empty or NULL message
+2024-12-07 00:06:48,530 - database_handler - DEBUG - Message decrypted successfully
+2024-12-07 00:06:48,530 - database_handler - DEBUG - Successfully processed message ID: 7
+2024-12-07 00:06:48,530 - database_handler - DEBUG - Message decrypted successfully
+2024-12-07 00:06:48,530 - database_handler - WARNING - Attempted to decrypt empty or NULL message
+2024-12-07 00:06:48,531 - database_handler - DEBUG - Successfully processed message ID: 6
+2024-12-07 00:06:48,532 - database_handler - WARNING - Attempted to decrypt empty or NULL message
+2024-12-07 00:06:48,533 - database_handler - DEBUG - Message decrypted successfully
+2024-12-07 00:06:48,533 - database_handler - DEBUG - Successfully processed message ID: 5
+2024-12-07 00:06:48,534 - database_handler - DEBUG - Message decrypted successfully
+2024-12-07 00:06:48,534 - database_handler - WARNING - Attempted to decrypt empty or NULL message
+2024-12-07 00:06:48,534 - database_handler - DEBUG - Successfully processed message ID: 4
+2024-12-07 00:06:48,534 - database_handler - WARNING - Attempted to decrypt empty or NULL message
+2024-12-07 00:06:48,535 - database_handler - DEBUG - Message decrypted successfully
+2024-12-07 00:06:48,536 - database_handler - DEBUG - Successfully processed message ID: 3
+2024-12-07 00:06:48,536 - database_handler - DEBUG - Message decrypted successfully
+2024-12-07 00:06:48,536 - database_handler - WARNING - Attempted to decrypt empty or NULL message
+2024-12-07 00:06:48,536 - database_handler - DEBUG - Successfully processed message ID: 1
+2024-12-07 00:06:48,537 - database_handler - INFO - Retrieved 12 messages successfully
+2024-12-07 00:06:48,551 - __main__ - INFO - Successfully decoded 12 messages
+2024-12-07 00:06:55,278 - __main__ - INFO - Starting database message decoding
+2024-12-07 00:06:55,279 - __main__ - DEBUG - Database path: C:\Users\shuim\OneDrive\Documents\Important\school\Y3S2\MP morseV1 database done\SQLite Database\morse_decoder.db
+2024-12-07 00:06:55,279 - database_handler - INFO - Initializing database handler for path: C:\Users\shuim\OneDrive\Documents\Important\school\Y3S2\MP morseV1 database done\SQLite Database\morse_decoder.db
+2024-12-07 00:06:55,279 - database_handler - DEBUG - Encryption setup completed successfully
+2024-12-07 00:06:55,279 - database_handler - DEBUG - Creating database directory: C:\Users\shuim\OneDrive\Documents\Important\school\Y3S2\MP morseV1 database done\SQLite Database
+2024-12-07 00:06:55,280 - database_handler - DEBUG - Creating messages table if not exists
+2024-12-07 00:06:55,281 - database_handler - INFO - Database setup completed successfully
+2024-12-07 00:06:55,281 - database_handler - INFO - Retrieving messages for sender: None and recipient: None
+2024-12-07 00:06:55,282 - database_handler - WARNING - Attempted to decrypt empty or NULL message
+2024-12-07 00:06:55,282 - database_handler - DEBUG - Message decrypted successfully
+2024-12-07 00:06:55,283 - database_handler - DEBUG - Successfully processed message ID: 13
+2024-12-07 00:06:55,283 - database_handler - DEBUG - Message decrypted successfully
+2024-12-07 00:06:55,283 - database_handler - WARNING - Attempted to decrypt empty or NULL message
+2024-12-07 00:06:55,283 - database_handler - DEBUG - Successfully processed message ID: 12
+2024-12-07 00:06:55,283 - database_handler - WARNING - Attempted to decrypt empty or NULL message
+2024-12-07 00:06:55,284 - database_handler - DEBUG - Message decrypted successfully
+2024-12-07 00:06:55,284 - database_handler - DEBUG - Successfully processed message ID: 11
+2024-12-07 00:06:55,285 - database_handler - DEBUG - Message decrypted successfully
+2024-12-07 00:06:55,285 - database_handler - WARNING - Attempted to decrypt empty or NULL message
+2024-12-07 00:06:55,285 - database_handler - DEBUG - Successfully processed message ID: 10
+2024-12-07 00:06:55,286 - database_handler - WARNING - Attempted to decrypt empty or NULL message
+2024-12-07 00:06:55,286 - database_handler - DEBUG - Message decrypted successfully
+2024-12-07 00:06:55,286 - database_handler - DEBUG - Successfully processed message ID: 9
+2024-12-07 00:06:55,286 - database_handler - DEBUG - Message decrypted successfully
+2024-12-07 00:06:55,287 - database_handler - WARNING - Attempted to decrypt empty or NULL message
+2024-12-07 00:06:55,287 - database_handler - DEBUG - Successfully processed message ID: 8
+2024-12-07 00:06:55,287 - database_handler - WARNING - Attempted to decrypt empty or NULL message
+2024-12-07 00:06:55,287 - database_handler - DEBUG - Message decrypted successfully
+2024-12-07 00:06:55,288 - database_handler - DEBUG - Successfully processed message ID: 7
+2024-12-07 00:06:55,288 - database_handler - DEBUG - Message decrypted successfully
+2024-12-07 00:06:55,288 - database_handler - WARNING - Attempted to decrypt empty or NULL message
+2024-12-07 00:06:55,288 - database_handler - DEBUG - Successfully processed message ID: 6
+2024-12-07 00:06:55,288 - database_handler - WARNING - Attempted to decrypt empty or NULL message
+2024-12-07 00:06:55,290 - database_handler - DEBUG - Message decrypted successfully
+2024-12-07 00:06:55,290 - database_handler - DEBUG - Successfully processed message ID: 5
+2024-12-07 00:06:55,290 - database_handler - DEBUG - Message decrypted successfully
+2024-12-07 00:06:55,291 - database_handler - WARNING - Attempted to decrypt empty or NULL message
+2024-12-07 00:06:55,291 - database_handler - DEBUG - Successfully processed message ID: 4
+2024-12-07 00:06:55,291 - database_handler - WARNING - Attempted to decrypt empty or NULL message
+2024-12-07 00:06:55,292 - database_handler - DEBUG - Message decrypted successfully
+2024-12-07 00:06:55,292 - database_handler - DEBUG - Successfully processed message ID: 3
+2024-12-07 00:06:55,292 - database_handler - DEBUG - Message decrypted successfully
+2024-12-07 00:06:55,293 - database_handler - WARNING - Attempted to decrypt empty or NULL message
+2024-12-07 00:06:55,293 - database_handler - DEBUG - Successfully processed message ID: 1
+2024-12-07 00:06:55,293 - database_handler - INFO - Retrieved 12 messages successfully
+2024-12-07 00:06:55,296 - __main__ - INFO - Successfully decoded 12 messages
+2024-12-12 21:38:02,534 - __main__ - INFO - Starting database message decoding
+2024-12-12 21:38:02,535 - __main__ - DEBUG - Database path: c:\Users\Win10\OneDrive\tp\MP\MorseTv3\SQLite Database\morse_decoder.db
+2024-12-12 21:38:02,535 - database_handler - INFO - Initializing database handler for path: c:\Users\Win10\OneDrive\tp\MP\MorseTv3\SQLite Database\morse_decoder.db
+2024-12-12 21:38:02,537 - database_handler - DEBUG - Encryption setup completed successfully
+2024-12-12 21:38:02,538 - database_handler - DEBUG - Creating database directory: c:\Users\Win10\OneDrive\tp\MP\MorseTv3\SQLite Database
+2024-12-12 21:38:02,539 - database_handler - DEBUG - Creating messages table if not exists
+2024-12-12 21:38:02,540 - database_handler - INFO - Database setup completed successfully
+2024-12-12 21:38:02,541 - database_handler - INFO - Retrieving messages for sender: None and recipient: None
+2024-12-12 21:38:02,543 - database_handler - WARNING - Attempted to decrypt empty or NULL message
+2024-12-12 21:38:02,549 - database_handler - DEBUG - Message decrypted successfully
+2024-12-12 21:38:02,551 - database_handler - DEBUG - Successfully processed message ID: 13
+2024-12-12 21:38:02,552 - database_handler - DEBUG - Message decrypted successfully
+2024-12-12 21:38:02,553 - database_handler - WARNING - Attempted to decrypt empty or NULL message
+2024-12-12 21:38:02,553 - database_handler - DEBUG - Successfully processed message ID: 12
+2024-12-12 21:38:02,554 - database_handler - WARNING - Attempted to decrypt empty or NULL message
+2024-12-12 21:38:02,554 - database_handler - DEBUG - Message decrypted successfully
+2024-12-12 21:38:02,554 - database_handler - DEBUG - Successfully processed message ID: 11
+2024-12-12 21:38:02,555 - database_handler - DEBUG - Message decrypted successfully
+2024-12-12 21:38:02,555 - database_handler - WARNING - Attempted to decrypt empty or NULL message
+2024-12-12 21:38:02,555 - database_handler - DEBUG - Successfully processed message ID: 10
+2024-12-12 21:38:02,556 - database_handler - WARNING - Attempted to decrypt empty or NULL message
+2024-12-12 21:38:02,556 - database_handler - DEBUG - Message decrypted successfully
+2024-12-12 21:38:02,556 - database_handler - DEBUG - Successfully processed message ID: 9
+2024-12-12 21:38:02,556 - database_handler - DEBUG - Message decrypted successfully
+2024-12-12 21:38:02,557 - database_handler - WARNING - Attempted to decrypt empty or NULL message
+2024-12-12 21:38:02,557 - database_handler - DEBUG - Successfully processed message ID: 8
+2024-12-12 21:38:02,557 - database_handler - WARNING - Attempted to decrypt empty or NULL message
+2024-12-12 21:38:02,557 - database_handler - DEBUG - Message decrypted successfully
+2024-12-12 21:38:02,558 - database_handler - DEBUG - Successfully processed message ID: 7
+2024-12-12 21:38:02,558 - database_handler - DEBUG - Message decrypted successfully
+2024-12-12 21:38:02,558 - database_handler - WARNING - Attempted to decrypt empty or NULL message
+2024-12-12 21:38:02,558 - database_handler - DEBUG - Successfully processed message ID: 6
+2024-12-12 21:38:02,558 - database_handler - WARNING - Attempted to decrypt empty or NULL message
+2024-12-12 21:38:02,559 - database_handler - DEBUG - Message decrypted successfully
+2024-12-12 21:38:02,559 - database_handler - DEBUG - Successfully processed message ID: 5
+2024-12-12 21:38:02,559 - database_handler - DEBUG - Message decrypted successfully
+2024-12-12 21:38:02,560 - database_handler - WARNING - Attempted to decrypt empty or NULL message
+2024-12-12 21:38:02,560 - database_handler - DEBUG - Successfully processed message ID: 4
+2024-12-12 21:38:02,560 - database_handler - WARNING - Attempted to decrypt empty or NULL message
+2024-12-12 21:38:02,560 - database_handler - DEBUG - Message decrypted successfully
+2024-12-12 21:38:02,561 - database_handler - DEBUG - Successfully processed message ID: 3
+2024-12-12 21:38:02,561 - database_handler - DEBUG - Message decrypted successfully
+2024-12-12 21:38:02,561 - database_handler - WARNING - Attempted to decrypt empty or NULL message
+2024-12-12 21:38:02,561 - database_handler - DEBUG - Successfully processed message ID: 1
+2024-12-12 21:38:02,562 - database_handler - INFO - Retrieved 12 messages successfully
+2024-12-12 21:38:02,570 - __main__ - INFO - Successfully decoded 12 messages
+2024-12-12 21:49:32,594 - __main__ - INFO - Program terminated by user
+2024-12-12 22:08:30,846 - __main__ - INFO - Starting database message decoding
+2024-12-12 22:08:30,847 - __main__ - DEBUG - Database path: c:\Users\Win10\OneDrive\tp\MP\MorseTv3\SQLite Database\morse_decoder.db
+2024-12-12 22:08:30,847 - database_handler - INFO - Initializing database handler for path: c:\Users\Win10\OneDrive\tp\MP\MorseTv3\SQLite Database\morse_decoder.db
+2024-12-12 22:08:30,847 - database_handler - DEBUG - Encryption setup completed successfully
+2024-12-12 22:08:30,847 - database_handler - DEBUG - Creating database directory: c:\Users\Win10\OneDrive\tp\MP\MorseTv3\SQLite Database
+2024-12-12 22:08:30,848 - database_handler - DEBUG - Creating messages table if not exists
+2024-12-12 22:08:30,849 - database_handler - INFO - Database setup completed successfully
+2024-12-12 22:08:30,849 - database_handler - INFO - Retrieving messages for sender: None and recipient: None
+2024-12-12 22:08:30,849 - database_handler - WARNING - Attempted to decrypt empty or NULL message
+2024-12-12 22:08:30,851 - database_handler - DEBUG - Message decrypted successfully
+2024-12-12 22:08:30,851 - database_handler - DEBUG - Successfully processed message ID: 13
+2024-12-12 22:08:30,852 - database_handler - DEBUG - Message decrypted successfully
+2024-12-12 22:08:30,852 - database_handler - WARNING - Attempted to decrypt empty or NULL message
+2024-12-12 22:08:30,852 - database_handler - DEBUG - Successfully processed message ID: 12
+2024-12-12 22:08:30,852 - database_handler - WARNING - Attempted to decrypt empty or NULL message
+2024-12-12 22:08:30,853 - database_handler - DEBUG - Message decrypted successfully
+2024-12-12 22:08:30,853 - database_handler - DEBUG - Successfully processed message ID: 11
+2024-12-12 22:08:30,853 - database_handler - DEBUG - Message decrypted successfully
+2024-12-12 22:08:30,854 - database_handler - WARNING - Attempted to decrypt empty or NULL message
+2024-12-12 22:08:30,854 - database_handler - DEBUG - Successfully processed message ID: 10
+2024-12-12 22:08:30,854 - database_handler - WARNING - Attempted to decrypt empty or NULL message
+2024-12-12 22:08:30,855 - database_handler - DEBUG - Message decrypted successfully
+2024-12-12 22:08:30,855 - database_handler - DEBUG - Successfully processed message ID: 9
+2024-12-12 22:08:30,856 - database_handler - DEBUG - Message decrypted successfully
+2024-12-12 22:08:30,856 - database_handler - WARNING - Attempted to decrypt empty or NULL message
+2024-12-12 22:08:30,856 - database_handler - DEBUG - Successfully processed message ID: 8
+2024-12-12 22:08:30,856 - database_handler - WARNING - Attempted to decrypt empty or NULL message
+2024-12-12 22:08:30,856 - database_handler - DEBUG - Message decrypted successfully
+2024-12-12 22:08:30,857 - database_handler - DEBUG - Successfully processed message ID: 7
+2024-12-12 22:08:30,857 - database_handler - DEBUG - Message decrypted successfully
+2024-12-12 22:08:30,858 - database_handler - WARNING - Attempted to decrypt empty or NULL message
+2024-12-12 22:08:30,858 - database_handler - DEBUG - Successfully processed message ID: 6
+2024-12-12 22:08:30,858 - database_handler - WARNING - Attempted to decrypt empty or NULL message
+2024-12-12 22:08:30,858 - database_handler - DEBUG - Message decrypted successfully
+2024-12-12 22:08:30,859 - database_handler - DEBUG - Successfully processed message ID: 5
+2024-12-12 22:08:30,859 - database_handler - DEBUG - Message decrypted successfully
+2024-12-12 22:08:30,859 - database_handler - WARNING - Attempted to decrypt empty or NULL message
+2024-12-12 22:08:30,859 - database_handler - DEBUG - Successfully processed message ID: 4
+2024-12-12 22:08:30,859 - database_handler - WARNING - Attempted to decrypt empty or NULL message
+2024-12-12 22:08:30,859 - database_handler - DEBUG - Message decrypted successfully
+2024-12-12 22:08:30,859 - database_handler - DEBUG - Successfully processed message ID: 3
+2024-12-12 22:08:30,859 - database_handler - DEBUG - Message decrypted successfully
+2024-12-12 22:08:30,860 - database_handler - WARNING - Attempted to decrypt empty or NULL message
+2024-12-12 22:08:30,860 - database_handler - DEBUG - Successfully processed message ID: 1
+2024-12-12 22:08:30,860 - database_handler - INFO - Retrieved 12 messages successfully
+2024-12-12 22:08:30,867 - __main__ - INFO - Successfully decoded 12 messages
+2024-12-12 22:08:54,845 - __main__ - INFO - Program terminated by user
